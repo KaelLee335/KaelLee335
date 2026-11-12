@@ -30,8 +30,8 @@
 ## 📜 Adventure Log
 
 <div align="center">
-  <img height="170" src="https://github-stats-extended.vercel.app/api?username=KaelLee335&show_icons=true&hide_border=true&bg_color=0d1f1a&title_color=f6c453&text_color=d8e7cf&icon_color=69b34c" alt="KaelLee335 GitHub statistics" />
-  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=KaelLee335&layout=compact&hide_border=true&bg_color=0d1f1a&title_color=f6c453&text_color=d8e7cf" alt="KaelLee335 most used languages" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=KaelLee335&show_icons=true&hide_border=true&bg_color=0d1f1a&title_color=f6c453&text_color=d8e7cf&icon_color=69b34c&cache_seconds=21600&v=20261112" alt="KaelLee335 GitHub statistics" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=KaelLee335&layout=compact&hide_border=true&bg_color=0d1f1a&title_color=f6c453&text_color=d8e7cf&cache_seconds=21600&v=20261112" alt="KaelLee335 most used languages" />
 </div>
 
 <div align="center">
