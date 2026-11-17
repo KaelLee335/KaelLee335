@@ -14,17 +14,32 @@
 ## 🪵 Base Camp
 
 ```text
-🌱 Currently growing   Python · SQL · Data tools
-⛏️  Exploring          Automation · Quant research · Open source
-🏕️  Environment        Windows · WSL2 · VS Code · Codex
-✨ Side quest          Turning ideas into useful little systems
+🧭 Main quest         Enterprise AI Agents · RAG · Workflow orchestration
+🛡️  Guard rails        Tenant isolation · Injection defense · Safe fallback
+🧪 Verification       Evaluations · Failure cases · Traceable evidence
+⚙️  Runtime craft      Tool registry · Permissions · Context · Execution tracing
+🏕️  Environment        Python · FastAPI · Vue · SQLite · Docker · WSL2
 📫 Camp mailbox       lzi835339@gmail.com
 ```
+
+### 🗺️ Active Quests
+
+- **[Enterprise Support Agent V2](https://github.com/KaelLee335/enterprise-support-agent-v2)** — A full-stack, multi-tenant support agent built with FastAPI, LangGraph, LangChain RAG, SQLite, Vue 3 and Docker, with evidence-grounded answers, approval flows and failure validation.
+- **[Enterprise Support Agent](https://github.com/KaelLee335/enterprise-support-agent)** — A Dify-powered customer-support demo featuring policy RAG, read-only order lookup, Streamlit UI and a 45-case evaluation suite.
+- **[Python Agent Runtime](https://github.com/KaelLee335/Python-Agent-Runtime)** — An extensible Python runtime exploring tool registration, permission gates, context management and execution tracing.
 
 ## 🎒 Inventory
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,vscode,git,github,windows,linux&theme=dark" alt="Python, VS Code, Git, GitHub, Windows and Linux" />
+  <img src="https://skillicons.dev/icons?i=py,fastapi,vue,vite,sqlite,docker,git,github,githubactions,vscode,windows,linux&theme=dark&perline=6" alt="Python, FastAPI, Vue, Vite, SQLite, Docker, Git, GitHub, GitHub Actions, VS Code, Windows and Linux" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-RAG-1c3c3c?style=flat-square&logo=langchain&logoColor=white" alt="LangChain RAG" />
+  <img src="https://img.shields.io/badge/LangGraph-Workflows-315c3b?style=flat-square" alt="LangGraph workflows" />
+  <img src="https://img.shields.io/badge/Dify-Agent_Platform-f6c453?style=flat-square&logoColor=0d1f1a" alt="Dify agent platform" />
+  <img src="https://img.shields.io/badge/Streamlit-Demo_UI-ff4b4b?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit demo UI" />
+  <img src="https://img.shields.io/badge/RAG-Evidence_Grounded-69b34c?style=flat-square" alt="Evidence-grounded RAG" />
 </p>
 
 ## 📜 Adventure Log
