@@ -24,9 +24,8 @@
 
 ### 🗺️ Active Quests
 
-- **[Enterprise Support Agent V2](https://github.com/KaelLee335/enterprise-support-agent-v2)** — A full-stack, multi-tenant support agent built with FastAPI, LangGraph, LangChain RAG, SQLite, Vue 3 and Docker, with evidence-grounded answers, approval flows and failure validation.
-- **[Enterprise Support Agent](https://github.com/KaelLee335/enterprise-support-agent)** — A Dify-powered customer-support demo featuring policy RAG, read-only order lookup, Streamlit UI and a 45-case evaluation suite.
-- **[Python Agent Runtime](https://github.com/KaelLee335/Python-Agent-Runtime)** — An extensible Python runtime exploring tool registration, permission gates, context management and execution tracing.
+- **[Enterprise Support Agent V2](https://github.com/KaelLee335/enterprise-support-agent-v2)** — 面向企业售后场景的全栈多租户智能客服系统，基于 FastAPI、LangGraph、LangChain RAG、SQLite、Vue 3 与 Docker 构建，支持可溯源回答、人工审批流程及故障验证。
+- **[Enterprise Support Agent](https://github.com/KaelLee335/enterprise-support-agent)** — 基于 Dify 构建的企业售后智能客服演示，支持政策知识库 RAG、只读订单查询、Streamlit 交互界面，并配套 45 个用例的评估体系。
 
 ## 🎒 Inventory
 
